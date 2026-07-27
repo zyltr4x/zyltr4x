@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zyltr4x.zyltr4x&" />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -48,6 +54,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="neovim logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zyltr4x&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=zyltr4x&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
