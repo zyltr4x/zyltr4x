@@ -1,19 +1,5 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -30,12 +16,54 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyltr4x&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyltr4x&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zyltr4x.zyltr4x&" />
 </div>
 
 ###
 
-<p align="center">
-  <sub><sup>reachable at <code>augustto@proton.me</code> or <code>@th1ago@infosec.exchange</code></sup></sub>
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻  About Me</h3>
+
+###
+
+<p align="left">
+  I'm Augusto, software engineer from Brazil.<br><br>
+  - 🔭 I work with Go, Rust and Python<br>
+  - 📚 I'm currently diving deeper into low-level Linux and kernel hardening<br>
+  - ⚡ In my free time I write automation tooling and break things to learn
 </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="neovim logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zyltr4x&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
